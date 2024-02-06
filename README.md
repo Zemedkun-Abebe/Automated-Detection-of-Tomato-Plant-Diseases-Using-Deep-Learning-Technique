@@ -16,6 +16,7 @@ The selected architecture balances complexity and simplicity, allowing effective
 #### Model Training and Evaluation:
 The model is trained for 20 epochs using Adam optimizer and categorical cross-entropy loss. Performance is evaluated on training and validation sets, with satisfactory accuracy achieved.
 ![image](https://github.com/Zemedkun-Abebe/Automated-Detection-of-Tomato-Plant-Diseases-Using-Deep-Learning-Technique/assets/99493026/9c6d4cf3-050b-4047-92bc-f287f566df7d)
+![image](https://github.com/Zemedkun-Abebe/Automated-Detection-of-Tomato-Plant-Diseases-Using-Deep-Learning-Technique/assets/99493026/216bcd34-3cea-4983-8de6-1eefbe84bb9a)
 
 #### Streamlit User Interface:
 The Streamlit interface enables users to upload tomato leaf images for disease prediction. The predicted class is displayed alongside the uploaded image, offering a straightforward user experience.
